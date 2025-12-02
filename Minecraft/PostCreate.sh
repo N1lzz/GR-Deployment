@@ -5,5 +5,5 @@
 # EULA Datei schreiben
 echo "eula=true" > eula.txt
 
-# Log-Nachricht für AMP Konsole
+# Log-Nachricht für GR Konsole
 echo "[GameRack] eula.txt injected successfully via Deployment Template."
